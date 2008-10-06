@@ -19,6 +19,10 @@ culfw/Devices/CUR/CUR.c -text
 culfw/Devices/CUR/CUR.hex -text
 culfw/Devices/CUR/board.h -text
 culfw/Devices/CUR/makefile -text
+culfw/Devices/DCUN/DCUN.c -text
+culfw/Devices/DCUN/DCUN.hex -text
+culfw/Devices/DCUN/board.h -text
+culfw/Devices/DCUN/makefile -text
 culfw/MyUSB/Changelog.txt -text
 culfw/MyUSB/Common/Atomic.h -text
 culfw/MyUSB/Common/BoardTypes.h -text
