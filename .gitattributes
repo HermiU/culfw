@@ -21,8 +21,13 @@ culfw/Devices/CUR/board.h -text
 culfw/Devices/CUR/makefile -text
 culfw/Devices/DCUN/DCUN.c -text
 culfw/Devices/DCUN/DCUN.hex -text
+culfw/Devices/DCUN/README.Ethernet -text
+culfw/Devices/DCUN/apps-conf.h -text
 culfw/Devices/DCUN/board.h -text
+culfw/Devices/DCUN/clock-arch.h -text
+culfw/Devices/DCUN/global-conf.h -text
 culfw/Devices/DCUN/makefile -text
+culfw/Devices/DCUN/uip-conf.h -text
 culfw/MyUSB/Changelog.txt -text
 culfw/MyUSB/Common/Atomic.h -text
 culfw/MyUSB/Common/BoardTypes.h -text
