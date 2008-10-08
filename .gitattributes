@@ -125,6 +125,7 @@ culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
+culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
 culfw/tools/MyUSB_USBtoSerial.inf -text
 culfw/tools/checksummer.c -text
