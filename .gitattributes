@@ -136,4 +136,5 @@ culfw/tools/timer -text svneol=unset#unset
 culfw/tools/timer.c -text
 culfw/tools/timer.gnuplot -text
 culfw/tools/timer.log -text
+culfw/tools/xmllist2curmenu.pl -text
 culfw/version.h -text
