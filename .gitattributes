@@ -118,6 +118,8 @@ culfw/clib/display.c -text
 culfw/clib/display.h -text
 culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
+culfw/clib/glcd.c -text
+culfw/clib/glcd.h -text
 culfw/clib/led.h -text
 culfw/clib/ringbuffer.c -text
 culfw/clib/ringbuffer.h -text
