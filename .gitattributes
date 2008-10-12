@@ -129,6 +129,17 @@ culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
+culfw/fonts/AdvoCut.inc -text
+culfw/fonts/AuxDotBit.inc -text
+culfw/fonts/Bauer.inc -text
+culfw/fonts/Default.inc -text
+culfw/fonts/Freon.inc -text
+culfw/fonts/MS_Sans_Serif.inc -text
+culfw/fonts/OEM_6x8.inc -text
+culfw/fonts/OEM_8x14.inc -text
+culfw/fonts/Systematic.inc -text
+culfw/fonts/Tahoma.inc -text
+culfw/fonts/ZeldaDX.inc -text
 culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
 culfw/tools/MyUSB_USBtoSerial.inf -text
