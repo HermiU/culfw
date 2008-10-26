@@ -106,6 +106,8 @@ culfw/MyUSB/makefile -text
 culfw/README -text
 culfw/clib/Descriptors.c -text
 culfw/clib/Descriptors.h -text
+culfw/clib/battery.c -text
+culfw/clib/battery.h -text
 culfw/clib/cc1100.c -text
 culfw/clib/cc1100.h -text
 culfw/clib/cdc.c -text
@@ -118,9 +120,15 @@ culfw/clib/display.c -text
 culfw/clib/display.h -text
 culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
+culfw/clib/fswrapper.c -text
+culfw/clib/fswrapper.h -text
 culfw/clib/glcd.c -text
 culfw/clib/glcd.h -text
 culfw/clib/led.h -text
+culfw/clib/pcf8833.c -text
+culfw/clib/pcf8833.h -text
+culfw/clib/qfs.c -text
+culfw/clib/qfs.h -text
 culfw/clib/ringbuffer.c -text
 culfw/clib/ringbuffer.h -text
 culfw/clib/spi.c -text
@@ -140,6 +148,9 @@ culfw/fonts/OEM_8x14.inc -text
 culfw/fonts/Systematic.inc -text
 culfw/fonts/Tahoma.inc -text
 culfw/fonts/ZeldaDX.inc -text
+culfw/fonts/courier_10x17.inc -text
+culfw/fonts/courier_8x14.inc -text
+culfw/fonts/pgm2fourbit.pl -text
 culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
 culfw/tools/MyUSB_USBtoSerial.inf -text
