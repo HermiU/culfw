@@ -116,10 +116,14 @@ culfw/clib/clock.c -text
 culfw/clib/clock.h -text
 culfw/clib/delay.c -text
 culfw/clib/delay.h -text
+culfw/clib/df.c -text
+culfw/clib/df.h -text
 culfw/clib/display.c -text
 culfw/clib/display.h -text
 culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
+culfw/clib/fs.c -text
+culfw/clib/fs.h -text
 culfw/clib/fswrapper.c -text
 culfw/clib/fswrapper.h -text
 culfw/clib/glcd.c -text
@@ -155,9 +159,11 @@ culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
 culfw/tools/MyUSB_USBtoSerial.inf -text
 culfw/tools/checksummer.c -text
+culfw/tools/cur_file.pl -text
 culfw/tools/fhem.log -text
 culfw/tools/logextract.pl -text
 culfw/tools/logextract2.pl -text
+culfw/tools/ppm2pcf8833.c -text
 culfw/tools/t2t.pl -text
 culfw/tools/timer -text svneol=unset#unset
 culfw/tools/timer.c -text
