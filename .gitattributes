@@ -128,7 +128,11 @@ culfw/clib/fswrapper.c -text
 culfw/clib/fswrapper.h -text
 culfw/clib/glcd.c -text
 culfw/clib/glcd.h -text
+culfw/clib/joy.c -text
+culfw/clib/joy.h -text
 culfw/clib/led.h -text
+culfw/clib/menu.c -text
+culfw/clib/menu.h -text
 culfw/clib/pcf8833.c -text
 culfw/clib/pcf8833.h -text
 culfw/clib/qfs.c -text
