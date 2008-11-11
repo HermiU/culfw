@@ -147,6 +147,7 @@ culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
+culfw/docs/faq.html -text
 culfw/fonts/AdvoCut.inc -text
 culfw/fonts/AuxDotBit.inc -text
 culfw/fonts/Bauer.inc -text
