@@ -1,15 +1,4 @@
 * text=auto !eol
-CVSROOT/checkoutlist -text
-CVSROOT/commitinfo -text
-CVSROOT/config -text
-CVSROOT/cvswrappers -text
-CVSROOT/editinfo -text
-CVSROOT/loginfo -text
-CVSROOT/modules -text
-CVSROOT/notify -text
-CVSROOT/rcsinfo -text
-CVSROOT/taginfo -text
-CVSROOT/verifymsg -text
 culfw/CHANGED -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
@@ -133,6 +122,8 @@ culfw/clib/joy.h -text
 culfw/clib/led.h -text
 culfw/clib/menu.c -text
 culfw/clib/menu.h -text
+culfw/clib/mysleep.c -text
+culfw/clib/mysleep.h -text
 culfw/clib/pcf8833.c -text
 culfw/clib/pcf8833.h -text
 culfw/clib/qfs.c -text
@@ -145,6 +136,7 @@ culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
+culfw/docs/faq.html -text
 culfw/fonts/AdvoCut.inc -text
 culfw/fonts/AuxDotBit.inc -text
 culfw/fonts/Bauer.inc -text
@@ -156,8 +148,12 @@ culfw/fonts/OEM_8x14.inc -text
 culfw/fonts/Systematic.inc -text
 culfw/fonts/Tahoma.inc -text
 culfw/fonts/ZeldaDX.inc -text
+culfw/fonts/courier.10x17.raw.pgm -text svneol=unset#application/octet-stream
+culfw/fonts/courier.8x14.raw.pgm -text svneol=unset#application/octet-stream
 culfw/fonts/courier_10x17.inc -text
 culfw/fonts/courier_8x14.inc -text
+culfw/fonts/house2.inc -text svneol=unset#application/octet-stream
+culfw/fonts/house2.ppm -text svneol=unset#application/octet-stream
 culfw/fonts/pgm2fourbit.pl -text
 culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
