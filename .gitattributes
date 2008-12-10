@@ -124,12 +124,8 @@ culfw/clib/ds1339.c -text
 culfw/clib/ds1339.h -text
 culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
-culfw/clib/fs.c -text
-culfw/clib/fs.h -text
 culfw/clib/fswrapper.c -text
 culfw/clib/fswrapper.h -text
-culfw/clib/glcd.c -text
-culfw/clib/glcd.h -text
 culfw/clib/i2cmaster.h -text
 culfw/clib/joy.c -text
 culfw/clib/joy.h -text
