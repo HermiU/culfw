@@ -122,6 +122,8 @@ culfw/clib/display.c -text
 culfw/clib/display.h -text
 culfw/clib/ds1339.c -text
 culfw/clib/ds1339.h -text
+culfw/clib/fht.c -text
+culfw/clib/fht.h -text
 culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
 culfw/clib/fswrapper.c -text
