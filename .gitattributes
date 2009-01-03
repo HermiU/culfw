@@ -173,7 +173,6 @@ culfw/tools/FREQTEST -text
 culfw/tools/MyUSB_USBtoSerial.inf -text
 culfw/tools/checksummer.c -text
 culfw/tools/cur_file.pl -text
-culfw/tools/fhem.log -text
 culfw/tools/logextract.pl -text
 culfw/tools/logextract2.pl -text
 culfw/tools/ppm2pcf8833.c -text
