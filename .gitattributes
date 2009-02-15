@@ -146,6 +146,7 @@ culfw/clib/spi.c -text
 culfw/clib/spi.h -text
 culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
+culfw/clib/transceiver_hms.c -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
