@@ -132,8 +132,12 @@ culfw/clib/i2cmaster.h -text
 culfw/clib/joy.c -text
 culfw/clib/joy.h -text
 culfw/clib/led.h -text
+culfw/clib/log.c -text
+culfw/clib/log.h -text
 culfw/clib/menu.c -text
 culfw/clib/menu.h -text
+culfw/clib/more.c -text
+culfw/clib/more.h -text
 culfw/clib/mysleep.c -text
 culfw/clib/mysleep.h -text
 culfw/clib/pcf8833.c -text
@@ -144,12 +148,15 @@ culfw/clib/ringbuffer.c -text
 culfw/clib/ringbuffer.h -text
 culfw/clib/spi.c -text
 culfw/clib/spi.h -text
+culfw/clib/stringfunc.c -text
+culfw/clib/stringfunc.h -text
 culfw/clib/transceiver.c -text
 culfw/clib/transceiver.h -text
 culfw/clib/transceiver_hms.c -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
+culfw/docs/battery.png -text
 culfw/docs/faq.html -text
 culfw/fonts/AdvoCut.inc -text
 culfw/fonts/AuxDotBit.inc -text
@@ -168,6 +175,7 @@ culfw/fonts/courier_10x17.inc -text
 culfw/fonts/courier_8x14.inc -text
 culfw/fonts/house2.inc -text svneol=unset#application/octet-stream
 culfw/fonts/house2.ppm -text svneol=unset#application/octet-stream
+culfw/fonts/house2_58x60 -text svneol=unset#application/octet-stream
 culfw/fonts/pgm2fourbit.pl -text
 culfw/tools/CUR.menu.template -text
 culfw/tools/FREQTEST -text
@@ -176,11 +184,9 @@ culfw/tools/checksummer.c -text
 culfw/tools/cur_file.pl -text
 culfw/tools/logextract.pl -text
 culfw/tools/logextract2.pl -text
-culfw/tools/ppm2pcf8833.c -text
 culfw/tools/t2t.pl -text
 culfw/tools/timer -text svneol=unset#unset
 culfw/tools/timer.c -text
 culfw/tools/timer.gnuplot -text
-culfw/tools/timer.log -text
 culfw/tools/xmllist2curmenu.pl -text
 culfw/version.h -text
