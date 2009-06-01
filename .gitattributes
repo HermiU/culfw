@@ -157,6 +157,8 @@ culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
 culfw/docs/battery.png -text
+culfw/docs/culfw.html -text
+culfw/docs/culfw.ico -text
 culfw/docs/faq.html -text
 culfw/fonts/AdvoCut.inc -text
 culfw/fonts/AuxDotBit.inc -text
