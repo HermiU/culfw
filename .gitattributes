@@ -18,8 +18,10 @@ culfw/Devices/CUL/makefile -text
 culfw/Devices/CUR/CUR.c -text
 culfw/Devices/CUR/CUR.hex -text
 culfw/Devices/CUR/board.h -text
+culfw/Devices/CUR/board_v2.h -text
 culfw/Devices/CUR/board_v3.h -text
 culfw/Devices/CUR/makefile -text
+culfw/Devices/CUR/makefile.v2 -text
 culfw/Devices/DCUN/DCUN.c -text
 culfw/Devices/DCUN/DCUN.hex -text
 culfw/Devices/DCUN/README.Ethernet -text
