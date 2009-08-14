@@ -15,6 +15,15 @@ culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
+culfw/Devices/CUN/CUN.c -text
+culfw/Devices/CUN/CUN.hex -text
+culfw/Devices/CUN/README.Ethernet -text
+culfw/Devices/CUN/apps-conf.h -text
+culfw/Devices/CUN/board.h -text
+culfw/Devices/CUN/clock-arch.h -text
+culfw/Devices/CUN/global-conf.h -text
+culfw/Devices/CUN/makefile -text
+culfw/Devices/CUN/uip-conf.h -text
 culfw/Devices/CUR/CUR.c -text
 culfw/Devices/CUR/CUR.hex -text
 culfw/Devices/CUR/board.h -text
@@ -150,6 +159,8 @@ culfw/clib/spi.c -text
 culfw/clib/spi.h -text
 culfw/clib/stringfunc.c -text
 culfw/clib/stringfunc.h -text
+culfw/clib/tcplink.c -text
+culfw/clib/tcplink.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
