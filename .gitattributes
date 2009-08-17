@@ -149,6 +149,8 @@ culfw/clib/joy.h -text
 culfw/clib/led.h -text
 culfw/clib/log.c -text
 culfw/clib/log.h -text
+culfw/clib/memory.c -text
+culfw/clib/memory.h -text
 culfw/clib/menu.c -text
 culfw/clib/menu.h -text
 culfw/clib/more.c -text
