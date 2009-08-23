@@ -180,22 +180,10 @@ culfw/docs/battery.png -text
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
 culfw/docs/faq.html -text
-culfw/fonts/AdvoCut.inc -text
-culfw/fonts/AuxDotBit.inc -text
-culfw/fonts/Bauer.inc -text
-culfw/fonts/Default.inc -text
-culfw/fonts/Freon.inc -text
-culfw/fonts/MS_Sans_Serif.inc -text
-culfw/fonts/OEM_6x8.inc -text
-culfw/fonts/OEM_8x14.inc -text
-culfw/fonts/Systematic.inc -text
-culfw/fonts/Tahoma.inc -text
-culfw/fonts/ZeldaDX.inc -text
 culfw/fonts/courier.10x17.raw.pgm -text svneol=unset#application/octet-stream
 culfw/fonts/courier.8x14.raw.pgm -text svneol=unset#application/octet-stream
 culfw/fonts/courier_10x17.inc -text
 culfw/fonts/courier_8x14.inc -text
-culfw/fonts/house2.inc -text svneol=unset#application/octet-stream
 culfw/fonts/house2.ppm -text svneol=unset#application/octet-stream
 culfw/fonts/house2_58x60 -text svneol=unset#application/octet-stream
 culfw/fonts/pgm2fourbit.pl -text
