@@ -19,4 +19,8 @@ culfw/Devices/CUR/*.lst
 culfw/Devices/CUR/*.map
 culfw/Devices/CUR/*.sym
 culfw/Devices/CUR/.dep
+culfw/avr-uip/drivers/enc28j60/*.lst
+culfw/avr-uip/uip/*.lst
 culfw/clib/*.lst
+culfw/lufa/Drivers/USB/HighLevel/*.lst
+culfw/lufa/Drivers/USB/LowLevel/*.lst
