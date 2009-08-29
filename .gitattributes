@@ -33,7 +33,7 @@ culfw/Devices/CUN/board.h -text
 culfw/Devices/CUN/clock-arch.h -text
 culfw/Devices/CUN/global-conf.h -text
 culfw/Devices/CUN/makefile -text
-culfw/Devices/CUN/makefile.lufa -text
+culfw/Devices/CUN/makefile.myusb -text
 culfw/Devices/CUN/uip-conf.h -text
 culfw/Devices/CUR/CUR.c -text
 culfw/Devices/CUR/CUR.hex -text
@@ -43,7 +43,7 @@ culfw/Devices/CUR/board.mk.v3 -text
 culfw/Devices/CUR/board_v2.h -text
 culfw/Devices/CUR/board_v3.h -text
 culfw/Devices/CUR/makefile -text
-culfw/Devices/CUR/makefile.lufa -text
+culfw/Devices/CUR/makefile.myusb -text
 culfw/MyUSB/Changelog.txt -text
 culfw/MyUSB/Common/Atomic.h -text
 culfw/MyUSB/Common/BoardTypes.h -text
@@ -170,6 +170,8 @@ culfw/clib/display.c -text
 culfw/clib/display.h -text
 culfw/clib/ds1339.c -text
 culfw/clib/ds1339.h -text
+culfw/clib/ethernet.c -text
+culfw/clib/ethernet.h -text
 culfw/clib/fastrf.c -text
 culfw/clib/fastrf.h -text
 culfw/clib/fht.c -text
