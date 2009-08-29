@@ -121,6 +121,8 @@ culfw/MyUSB/Version.h -text
 culfw/MyUSB/makefile -text
 culfw/README -text
 culfw/avr-uip/README -text
+culfw/avr-uip/apps/dhcpc/dhcpc.c -text
+culfw/avr-uip/apps/dhcpc/dhcpc.h -text
 culfw/avr-uip/drivers/enc28j60/avrlibdefs.h -text
 culfw/avr-uip/drivers/enc28j60/avrlibtypes.h -text
 culfw/avr-uip/drivers/enc28j60/enc28j60.c -text
