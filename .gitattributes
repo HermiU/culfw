@@ -31,7 +31,6 @@ culfw/Devices/CUN/CUN.hex -text
 culfw/Devices/CUN/apps-conf.h -text
 culfw/Devices/CUN/board.h -text
 culfw/Devices/CUN/clock-arch.h -text
-culfw/Devices/CUN/global-conf.h -text
 culfw/Devices/CUN/makefile -text
 culfw/Devices/CUN/makefile.myusb -text
 culfw/Devices/CUN/uip-conf.h -text
@@ -127,7 +126,6 @@ culfw/avr-uip/drivers/enc28j60/avrlibdefs.h -text
 culfw/avr-uip/drivers/enc28j60/avrlibtypes.h -text
 culfw/avr-uip/drivers/enc28j60/enc28j60.c -text
 culfw/avr-uip/drivers/enc28j60/enc28j60.h -text
-culfw/avr-uip/drivers/enc28j60/enc28j60conf.h -text
 culfw/avr-uip/drivers/enc28j60/global.h -text
 culfw/avr-uip/drivers/enc28j60/network.c -text
 culfw/avr-uip/drivers/interfaces/README -text
@@ -196,6 +194,8 @@ culfw/clib/more.c -text
 culfw/clib/more.h -text
 culfw/clib/mysleep.c -text
 culfw/clib/mysleep.h -text
+culfw/clib/ntp.c -text
+culfw/clib/ntp.h -text
 culfw/clib/pcf8833.c -text
 culfw/clib/pcf8833.h -text
 culfw/clib/qfs.c -text
