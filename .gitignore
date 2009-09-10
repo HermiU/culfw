@@ -19,6 +19,7 @@ culfw/Devices/CUR/*.lst
 culfw/Devices/CUR/*.map
 culfw/Devices/CUR/*.sym
 culfw/Devices/CUR/.dep
+culfw/avr-uip/apps/dhcpc/dhcpc.lst
 culfw/avr-uip/drivers/enc28j60/*.lst
 culfw/avr-uip/uip/*.lst
 culfw/clib/*.lst
