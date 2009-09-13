@@ -33,6 +33,7 @@ culfw/Devices/CUN/board.h -text
 culfw/Devices/CUN/clock-arch.h -text
 culfw/Devices/CUN/makefile -text
 culfw/Devices/CUN/makefile.myusb -text
+culfw/Devices/CUN/makefile.v10 -text
 culfw/Devices/CUN/uip-conf.h -text
 culfw/Devices/CUR/CUR.c -text
 culfw/Devices/CUR/CUR.hex -text
