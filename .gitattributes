@@ -25,7 +25,7 @@ culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
-culfw/Devices/CUL/makefile.lufa -text
+culfw/Devices/CUL/makefile.myusb -text
 culfw/Devices/CUN/CUN.c -text
 culfw/Devices/CUN/CUN.hex -text
 culfw/Devices/CUN/apps-conf.h -text
