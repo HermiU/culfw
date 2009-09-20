@@ -21,6 +21,13 @@ culfw/Devices/CPM-BS/FunkTest/makefile -text
 culfw/Devices/CPM-BS/LEDTest/led.h -text
 culfw/Devices/CPM-BS/LEDTest/main.c -text
 culfw/Devices/CPM-BS/LEDTest/makefile -text
+culfw/Devices/CPM-BS/board.h -text
+culfw/Devices/CPM-BS/bsfw.c -text
+culfw/Devices/CPM-BS/cc1100.c -text
+culfw/Devices/CPM-BS/cc1100.h -text
+culfw/Devices/CPM-BS/fs20.c -text
+culfw/Devices/CPM-BS/fs20.h -text
+culfw/Devices/CPM-BS/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
 culfw/Devices/CUL/board.h -text
