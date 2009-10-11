@@ -23,8 +23,11 @@ culfw/Devices/CPM-BS/LEDTest/main.c -text
 culfw/Devices/CPM-BS/LEDTest/makefile -text
 culfw/Devices/CPM-BS/board.h -text
 culfw/Devices/CPM-BS/bsfw.c -text
+culfw/Devices/CPM-BS/bsfw.hex -text
 culfw/Devices/CPM-BS/cc1100.c -text
 culfw/Devices/CPM-BS/cc1100.h -text
+culfw/Devices/CPM-BS/config.c -text
+culfw/Devices/CPM-BS/config.h -text
 culfw/Devices/CPM-BS/fs20.c -text
 culfw/Devices/CPM-BS/fs20.h -text
 culfw/Devices/CPM-BS/makefile -text
