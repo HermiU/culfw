@@ -230,6 +230,7 @@ culfw/clib/twimaster.c -text
 culfw/docs/FREQTEST -text
 culfw/docs/MyUSB_USBtoSerial.inf -text
 culfw/docs/battery.png -text
+culfw/docs/ccc.jpg -text svneol=unset#unset
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
 culfw/docs/faq.html -text
