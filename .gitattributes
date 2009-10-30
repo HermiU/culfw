@@ -1,15 +1,4 @@
 * text=auto !eol
-CVSROOT/checkoutlist -text
-CVSROOT/commitinfo -text
-CVSROOT/config -text
-CVSROOT/cvswrappers -text
-CVSROOT/editinfo -text
-CVSROOT/loginfo -text
-CVSROOT/modules -text
-CVSROOT/notify -text
-CVSROOT/rcsinfo -text
-CVSROOT/taginfo -text
-CVSROOT/verifymsg -text
 culfw/CHANGED -text
 culfw/Devices/CPM-BS/FunkTest/cc1100.c -text
 culfw/Devices/CPM-BS/FunkTest/cc1100.h -text
@@ -21,16 +10,6 @@ culfw/Devices/CPM-BS/FunkTest/makefile -text
 culfw/Devices/CPM-BS/LEDTest/led.h -text
 culfw/Devices/CPM-BS/LEDTest/main.c -text
 culfw/Devices/CPM-BS/LEDTest/makefile -text
-culfw/Devices/CPM-BS/board.h -text
-culfw/Devices/CPM-BS/bsfw.c -text
-culfw/Devices/CPM-BS/bsfw.hex -text
-culfw/Devices/CPM-BS/cc1100.c -text
-culfw/Devices/CPM-BS/cc1100.h -text
-culfw/Devices/CPM-BS/config.c -text
-culfw/Devices/CPM-BS/config.h -text
-culfw/Devices/CPM-BS/fs20.c -text
-culfw/Devices/CPM-BS/fs20.h -text
-culfw/Devices/CPM-BS/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
 culfw/Devices/CUL/board.h -text
