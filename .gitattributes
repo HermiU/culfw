@@ -31,6 +31,9 @@ culfw/Devices/CPM-BS/config.h -text
 culfw/Devices/CPM-BS/fs20.c -text
 culfw/Devices/CPM-BS/fs20.h -text
 culfw/Devices/CPM-BS/makefile -text
+culfw/Devices/CSM/CSM.c -text
+culfw/Devices/CSM/board.h -text
+culfw/Devices/CSM/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
 culfw/Devices/CUL/board.h -text
@@ -220,6 +223,8 @@ culfw/clib/rf_send.c -text
 culfw/clib/rf_send.h -text
 culfw/clib/ringbuffer.c -text
 culfw/clib/ringbuffer.h -text
+culfw/clib/serial.c -text
+culfw/clib/serial.h -text
 culfw/clib/spi.c -text
 culfw/clib/spi.h -text
 culfw/clib/stringfunc.c -text
