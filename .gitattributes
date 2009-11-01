@@ -168,10 +168,14 @@ culfw/avr-uip/uip/uiplib.h -text
 culfw/avr-uip/uip/uipopt.h -text
 culfw/clib/Descriptors.c -text
 culfw/clib/Descriptors.h -text
+culfw/clib/adcw.c -text
+culfw/clib/adcw.h -text
 culfw/clib/battery.c -text
 culfw/clib/battery.h -text
 culfw/clib/cc1100.c -text
 culfw/clib/cc1100.h -text
+culfw/clib/cctemp.c -text
+culfw/clib/cctemp.h -text
 culfw/clib/cdc.c -text
 culfw/clib/cdc.h -text
 culfw/clib/cdcLUFA.c -text
