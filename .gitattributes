@@ -36,6 +36,7 @@ culfw/Devices/CSM/board.h -text
 culfw/Devices/CSM/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL.hex -text
+culfw/Devices/CUL/CUL_FHT8v.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
 culfw/Devices/CUL/makefile.myusb -text
@@ -245,6 +246,7 @@ culfw/docs/ccc.jpg -text svneol=unset#unset
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
 culfw/docs/faq.html -text
+culfw/docs/rfr_timing -text
 culfw/fonts/courier.10x17.raw.pgm -text svneol=unset#application/octet-stream
 culfw/fonts/courier.8x14.raw.pgm -text svneol=unset#application/octet-stream
 culfw/fonts/courier_10x17.inc -text
