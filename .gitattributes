@@ -293,11 +293,13 @@ culfw/lufa/Drivers/USB/LowLevel/Template/Template_Endpoint_RW.c -text
 culfw/lufa/Drivers/USB/LowLevel/Template/Template_Pipe_RW.c -text
 culfw/lufa/Drivers/USB/USB.h -text
 culfw/lufa/Version.h -text
+culfw/tools/CUL_stack.sh -text
 culfw/tools/CUR.menu.template -text
 culfw/tools/checksummer.c -text
 culfw/tools/cur_file.pl -text
 culfw/tools/logextract.pl -text
 culfw/tools/logextract2.pl -text
+culfw/tools/stack.pl -text
 culfw/tools/t2t.pl -text
 culfw/tools/timer.c -text
 culfw/tools/timer.gnuplot -text
