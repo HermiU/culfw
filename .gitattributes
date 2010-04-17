@@ -35,8 +35,8 @@ culfw/Devices/CSM/CSM.c -text
 culfw/Devices/CSM/board.h -text
 culfw/Devices/CSM/makefile -text
 culfw/Devices/CUL/CUL.c -text
-culfw/Devices/CUL/CUL.hex -text
-culfw/Devices/CUL/CUL_FHT8v.hex -text
+culfw/Devices/CUL/CUL_V2.hex -text
+culfw/Devices/CUL/CUL_V3.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
 culfw/Devices/CUL/makefile.myusb -text
