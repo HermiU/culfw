@@ -246,6 +246,7 @@ culfw/docs/ccc.jpg -text svneol=unset#unset
 culfw/docs/cul_rfr.jpg -text
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
+culfw/docs/culfw.png -text svneol=unset#unset
 culfw/docs/faq.html -text
 culfw/docs/rfr_timing -text
 culfw/fonts/courier.10x17.raw.pgm -text svneol=unset#application/octet-stream
