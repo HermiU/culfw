@@ -1,3 +1,8 @@
+culfw/Devices/CPM-Gardenabodenfeuchtesensor/Release/*.d
+culfw/Devices/CPM-Gardenabodenfeuchtesensor/Release/*.eep
+culfw/Devices/CPM-Gardenabodenfeuchtesensor/Release/*.elf
+culfw/Devices/CPM-Gardenabodenfeuchtesensor/Release/*.lss
+culfw/Devices/CPM-Gardenabodenfeuchtesensor/Release/*.map
 culfw/Devices/CUL/*.eep
 culfw/Devices/CUL/*.elf
 culfw/Devices/CUL/*.lss
