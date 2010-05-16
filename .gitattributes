@@ -245,6 +245,8 @@ culfw/clib/pcf8833.c -text
 culfw/clib/pcf8833.h -text
 culfw/clib/qfs.c -text
 culfw/clib/qfs.h -text
+culfw/clib/rf_asksin.c -text
+culfw/clib/rf_asksin.h -text
 culfw/clib/rf_receive.c -text
 culfw/clib/rf_receive.h -text
 culfw/clib/rf_router.c -text
