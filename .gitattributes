@@ -324,6 +324,7 @@ culfw/lufa/Drivers/USB/USB.h -text
 culfw/lufa/Version.h -text
 culfw/tools/CUL_stack.sh -text
 culfw/tools/CUR.menu.template -text
+culfw/tools/asksin-dumper.pl -text
 culfw/tools/checksummer.c -text
 culfw/tools/cur_file.pl -text
 culfw/tools/logextract.pl -text
