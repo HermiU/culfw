@@ -57,6 +57,7 @@ culfw/Devices/CPM-Gardenabodenfeuchtesensor/fs20.h -text
 culfw/Devices/CPM-Gardenabodenfeuchtesensor/main.c -text
 culfw/Devices/CPM-Gardenabodenfeuchtesensor/util.h -text
 culfw/Devices/CSM/CSM.c -text
+culfw/Devices/CSM/CSM.hex -text
 culfw/Devices/CSM/board.h -text
 culfw/Devices/CSM/makefile -text
 culfw/Devices/CUL/CUL.c -text
