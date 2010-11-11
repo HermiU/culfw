@@ -300,6 +300,7 @@ culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
 culfw/docs/FREQTEST -text
+culfw/docs/MCP2200.inf -text
 culfw/docs/MyUSB_USBtoSerial.inf -text
 culfw/docs/battery.png -text
 culfw/docs/ccc.jpg -text svneol=unset#unset
