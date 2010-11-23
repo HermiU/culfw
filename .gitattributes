@@ -1,15 +1,4 @@
 * text=auto !eol
-CVSROOT/checkoutlist -text
-CVSROOT/commitinfo -text
-CVSROOT/config -text
-CVSROOT/cvswrappers -text
-CVSROOT/editinfo -text
-CVSROOT/loginfo -text
-CVSROOT/modules -text
-CVSROOT/notify -text
-CVSROOT/rcsinfo -text
-CVSROOT/taginfo -text
-CVSROOT/verifymsg -text
 culfw/CHANGED -text
 culfw/Devices/CPM-BS/FunkTest/cc1100.c -text
 culfw/Devices/CPM-BS/FunkTest/cc1100.h -text
@@ -62,6 +51,7 @@ culfw/Devices/CSM/board.h -text
 culfw/Devices/CSM/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL_V2.hex -text
+culfw/Devices/CUL/CUL_V2_HM.hex -text
 culfw/Devices/CUL/CUL_V3.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
@@ -307,6 +297,7 @@ culfw/docs/ccc.jpg -text svneol=unset#unset
 culfw/docs/cul_rfr.jpg -text
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
+culfw/docs/culfw.odg -text svneol=unset#unset
 culfw/docs/culfw.png -text svneol=unset#unset
 culfw/docs/faq.html -text
 culfw/docs/rfr_timing -text
