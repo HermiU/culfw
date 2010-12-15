@@ -116,6 +116,11 @@ culfw/Devices/CUR/board_v2.h -text
 culfw/Devices/CUR/board_v3.h -text
 culfw/Devices/CUR/makefile -text
 culfw/Devices/CUR/makefile.myusb -text
+culfw/Devices/TuxRadio/CSM.c -text
+culfw/Devices/TuxRadio/CSM.hex -text
+culfw/Devices/TuxRadio/board.h -text
+culfw/Devices/TuxRadio/irmpconfig.h -text
+culfw/Devices/TuxRadio/makefile -text
 culfw/MyUSB/Changelog.txt -text
 culfw/MyUSB/Common/Atomic.h -text
 culfw/MyUSB/Common/BoardTypes.h -text
