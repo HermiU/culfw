@@ -135,6 +135,7 @@ culfw/Devices/TuxRadio/Bootloader/megaxx4p.h -text
 culfw/Devices/TuxRadio/Bootloader/readme.txt -text
 culfw/Devices/TuxRadio/CSM.c -text
 culfw/Devices/TuxRadio/CSM.hex -text
+culfw/Devices/TuxRadio/README -text
 culfw/Devices/TuxRadio/board.h -text
 culfw/Devices/TuxRadio/irmpconfig.h -text
 culfw/Devices/TuxRadio/makefile -text
