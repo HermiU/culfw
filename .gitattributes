@@ -336,6 +336,7 @@ culfw/docs/MCP2200.inf -text
 culfw/docs/MyUSB_USBtoSerial.inf -text
 culfw/docs/battery.png -text
 culfw/docs/ccc.jpg -text svneol=unset#unset
+culfw/docs/commandref.html -text
 culfw/docs/cul_rfr.jpg -text
 culfw/docs/culfw.html -text
 culfw/docs/culfw.ico -text
