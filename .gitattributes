@@ -78,6 +78,9 @@ culfw/Devices/CPM/lib/fs20.h -text
 culfw/Devices/CPM/lib/main.c -text
 culfw/Devices/CPM/lib/util.c -text
 culfw/Devices/CPM/lib/util.h -text
+culfw/Devices/CPM/template/actions.c -text
+culfw/Devices/CPM/template/board.h -text
+culfw/Devices/CPM/template/makefile -text
 culfw/Devices/CPM/tools/CPM-fuser.sh -text
 culfw/Devices/CPM/tools/F.pl -text
 culfw/Devices/CSM/CSM.c -text
