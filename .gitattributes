@@ -181,6 +181,11 @@ culfw/Devices/TuxRadio/Bootloader/megaxx4p.h -text
 culfw/Devices/TuxRadio/Bootloader/readme.txt -text
 culfw/Devices/TuxRadio/CSM.c -text
 culfw/Devices/TuxRadio/CSM.hex -text
+culfw/Devices/TuxRadio/DEBIAN/conffiles -text
+culfw/Devices/TuxRadio/DEBIAN/control -text
+culfw/Devices/TuxRadio/DEBIAN/postinst -text
+culfw/Devices/TuxRadio/DEBIAN/postrm -text
+culfw/Devices/TuxRadio/DEBIAN/prerm -text
 culfw/Devices/TuxRadio/README -text
 culfw/Devices/TuxRadio/board.h -text
 culfw/Devices/TuxRadio/irmpconfig.h -text
