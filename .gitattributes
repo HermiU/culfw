@@ -59,11 +59,12 @@ culfw/Devices/CPM-Gardenabodenfeuchtesensor/util.h -text
 culfw/Devices/CPM/BS/actions.c -text
 culfw/Devices/CPM/BS/board.h -text
 culfw/Devices/CPM/BS/makefile -text
+culfw/Devices/CPM/PS/README -text
 culfw/Devices/CPM/PS/actions.c -text
 culfw/Devices/CPM/PS/board.h -text
-culfw/Devices/CPM/PS/config.h -text
 culfw/Devices/CPM/PS/makefile -text
 culfw/Devices/CPM/README -text
+culfw/Devices/CPM/SS/README -text
 culfw/Devices/CPM/SS/actions.c -text
 culfw/Devices/CPM/SS/board.h -text
 culfw/Devices/CPM/SS/makefile -text
