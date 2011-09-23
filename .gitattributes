@@ -149,6 +149,7 @@ culfw/Devices/CUNO/Bootloader/megaxx4p.h -text
 culfw/Devices/CUNO/Bootloader/readme.txt -text
 culfw/Devices/CUNO/CUNO.c -text
 culfw/Devices/CUNO/CUNO.hex -text
+culfw/Devices/CUNO/CUNO_1.43_ethersex.hex -text
 culfw/Devices/CUNO/apps-conf.h -text
 culfw/Devices/CUNO/board.h -text
 culfw/Devices/CUNO/clock-arch.h -text
