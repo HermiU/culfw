@@ -276,6 +276,10 @@ culfw/avr-uip/drivers/enc28j60/enc28j60.c -text
 culfw/avr-uip/drivers/enc28j60/enc28j60.h -text
 culfw/avr-uip/drivers/enc28j60/global.h -text
 culfw/avr-uip/drivers/enc28j60/network.c -text
+culfw/avr-uip/drivers/ethersex/bit-macros.h -text
+culfw/avr-uip/drivers/ethersex/enc28j60.c -text
+culfw/avr-uip/drivers/ethersex/enc28j60.h -text
+culfw/avr-uip/drivers/ethersex/network.c -text
 culfw/avr-uip/drivers/interfaces/README -text
 culfw/avr-uip/drivers/interfaces/network.h -text
 culfw/avr-uip/uip/clock.h -text
