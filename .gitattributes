@@ -371,6 +371,10 @@ culfw/clib/ir.c -text
 culfw/clib/ir.h -text
 culfw/clib/irmp.c -text
 culfw/clib/irmp.h -text
+culfw/clib/irmpconfig.h -text
+culfw/clib/irsnd.c -text
+culfw/clib/irsnd.h -text
+culfw/clib/irsndconfig.h -text
 culfw/clib/joy.c -text
 culfw/clib/joy.h -text
 culfw/clib/led.h -text
