@@ -179,7 +179,6 @@ culfw/Devices/CUNO2/CUNO2.hex -text
 culfw/Devices/CUNO2/apps-conf.h -text
 culfw/Devices/CUNO2/board.h -text
 culfw/Devices/CUNO2/clock-arch.h -text
-culfw/Devices/CUNO2/irmpconfig.h -text
 culfw/Devices/CUNO2/makefile -text
 culfw/Devices/CUNO2/uip-conf.h -text
 culfw/Devices/CUR/CUR.c -text
