@@ -244,6 +244,7 @@ culfw/Devices/TuxRadio2/Bootloader/mega8.h -text
 culfw/Devices/TuxRadio2/Bootloader/megaxx4p.h -text
 culfw/Devices/TuxRadio2/Bootloader/readme.txt -text
 culfw/Devices/TuxRadio2/CSM.c -text
+culfw/Devices/TuxRadio2/CSM.hex -text
 culfw/Devices/TuxRadio2/DEBIAN/CVS/Entries -text
 culfw/Devices/TuxRadio2/DEBIAN/CVS/Repository -text
 culfw/Devices/TuxRadio2/DEBIAN/CVS/Root -text
