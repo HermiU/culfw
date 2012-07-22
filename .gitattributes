@@ -382,6 +382,7 @@ culfw/clib/twimaster.c -text
 culfw/docs/CUNO.jpg -text
 culfw/docs/FREQTEST -text
 culfw/docs/FREQTEST2 -text
+culfw/docs/FREQTEST3 -text
 culfw/docs/MCP2200.inf -text
 culfw/docs/MyUSB_USBtoSerial.inf -text
 culfw/docs/battery.png -text
