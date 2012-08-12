@@ -190,6 +190,7 @@ culfw/Devices/CUR/board_v2.h -text
 culfw/Devices/CUR/board_v3.h -text
 culfw/Devices/CUR/makefile -text
 culfw/Devices/CUR/makefile.myusb -text
+culfw/Devices/Makefile -text
 culfw/Devices/TuxRadio/Bootloader/chipdef.h -text
 culfw/Devices/TuxRadio/Bootloader/main.c -text
 culfw/Devices/TuxRadio/Bootloader/main.hex -text
