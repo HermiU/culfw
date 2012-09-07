@@ -389,6 +389,8 @@ culfw/clib/qfs.c -text
 culfw/clib/qfs.h -text
 culfw/clib/rf_asksin.c -text
 culfw/clib/rf_asksin.h -text
+culfw/clib/rf_moritz.c -text
+culfw/clib/rf_moritz.h -text
 culfw/clib/rf_receive.c -text
 culfw/clib/rf_receive.h -text
 culfw/clib/rf_router.c -text
