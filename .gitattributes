@@ -395,6 +395,8 @@ culfw/clib/rf_receive.c -text
 culfw/clib/rf_receive.h -text
 culfw/clib/rf_router.c -text
 culfw/clib/rf_router.h -text
+culfw/clib/rf_rwe.c -text
+culfw/clib/rf_rwe.h -text
 culfw/clib/rf_send.c -text
 culfw/clib/rf_send.h -text
 culfw/clib/ringbuffer.c -text
