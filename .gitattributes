@@ -35,6 +35,7 @@ culfw/Devices/COC/Bootloader/megaxx4p.h -text
 culfw/Devices/COC/Bootloader/readme.txt -text
 culfw/Devices/COC/COC.c -text
 culfw/Devices/COC/COC.hex -text
+culfw/Devices/COC/COC.radio_only.hex -text
 culfw/Devices/COC/README -text
 culfw/Devices/COC/board.h -text
 culfw/Devices/COC/makefile -text
