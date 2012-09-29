@@ -414,6 +414,8 @@ culfw/clib/tcplink.h -text
 culfw/clib/ttydata.c -text
 culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
+culfw/clib/vz.c -text
+culfw/clib/vz.h -text
 culfw/docs/CUNO.jpg -text
 culfw/docs/FREQTEST -text
 culfw/docs/FREQTEST2 -text
