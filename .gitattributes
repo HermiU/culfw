@@ -343,6 +343,8 @@ culfw/clib/df.c -text
 culfw/clib/df.h -text
 culfw/clib/display.c -text
 culfw/clib/display.h -text
+culfw/clib/dmx.c -text
+culfw/clib/dmx.h -text
 culfw/clib/dogm16x.c -text
 culfw/clib/dogm16x.h -text
 culfw/clib/ds1339.c -text
