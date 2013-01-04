@@ -360,6 +360,8 @@ culfw/clib/fncollection.c -text
 culfw/clib/fncollection.h -text
 culfw/clib/fswrapper.c -text
 culfw/clib/fswrapper.h -text
+culfw/clib/hm485.c -text
+culfw/clib/hm485.h -text
 culfw/clib/i2cmaster.h -text
 culfw/clib/ir.c -text
 culfw/clib/ir.h -text
