@@ -185,6 +185,11 @@ culfw/Devices/CUNO/clock-arch.h -text
 culfw/Devices/CUNO/makefile -text
 culfw/Devices/CUNO/uip-conf.h -text
 culfw/Devices/CUNO2/Bootloader/chipdef.h -text
+culfw/Devices/CUNO2/Bootloader/ldscripts_no_vector/avr1.x -text
+culfw/Devices/CUNO2/Bootloader/ldscripts_no_vector/avr2.x -text
+culfw/Devices/CUNO2/Bootloader/ldscripts_no_vector/avr3.x -text
+culfw/Devices/CUNO2/Bootloader/ldscripts_no_vector/avr4.x -text
+culfw/Devices/CUNO2/Bootloader/ldscripts_no_vector/avr5.x -text
 culfw/Devices/CUNO2/Bootloader/main -text svneol=unset#unset
 culfw/Devices/CUNO2/Bootloader/main.c -text
 culfw/Devices/CUNO2/Bootloader/main.hex -text
