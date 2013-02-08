@@ -466,6 +466,7 @@ culfw/clib/ttydata.h -text
 culfw/clib/twimaster.c -text
 culfw/clib/vz.c -text
 culfw/clib/vz.h -text
+culfw/clib/xled.h -text
 culfw/docs/CUNO.jpg -text
 culfw/docs/FREQTEST -text
 culfw/docs/FREQTEST2 -text
