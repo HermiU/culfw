@@ -441,6 +441,7 @@ culfw/clib/onewire.c -text
 culfw/clib/onewire.h -text
 culfw/clib/pcf8833.c -text
 culfw/clib/pcf8833.h -text
+culfw/clib/private_channel.h -text
 culfw/clib/qfs.c -text
 culfw/clib/qfs.h -text
 culfw/clib/rf_asksin.c -text
