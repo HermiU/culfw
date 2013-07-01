@@ -11,8 +11,6 @@ CVSROOT/rcsinfo -text
 CVSROOT/taginfo -text
 CVSROOT/verifymsg -text
 culfw/CHANGED -text
-culfw/Devices/AirLinked/PWMBOX/main.c -text
-culfw/Devices/AirLinked/PWMBOX/makefile -text
 culfw/Devices/AirLinked/UVCBOX/main.c -text
 culfw/Devices/AirLinked/UVCBOX/main.c.big -text
 culfw/Devices/AirLinked/UVCBOX/main.h -text
