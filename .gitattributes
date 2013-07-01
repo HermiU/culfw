@@ -11,6 +11,9 @@ CVSROOT/rcsinfo -text
 CVSROOT/taginfo -text
 CVSROOT/verifymsg -text
 culfw/CHANGED -text
+culfw/Devices/AirLinked/PWMBOX/board.h -text
+culfw/Devices/AirLinked/PWMBOX/main.c -text
+culfw/Devices/AirLinked/PWMBOX/makefile -text
 culfw/Devices/AirLinked/UVCBOX/main.c -text
 culfw/Devices/AirLinked/UVCBOX/main.c.big -text
 culfw/Devices/AirLinked/UVCBOX/main.h -text
@@ -20,6 +23,8 @@ culfw/Devices/AirLinked/board.h.CSM -text
 culfw/Devices/AirLinked/board.h.HM-LC-Sw1-PI -text
 culfw/Devices/AirLinked/board.h.RWE_PSS -text
 culfw/Devices/AirLinked/board.h.zCSM -text
+culfw/Devices/AirLinked/culfw.c -text
+culfw/Devices/AirLinked/culfw.h -text
 culfw/Devices/COC/Bootloader/chipdef.h -text
 culfw/Devices/COC/Bootloader/ldscripts_no_vector/avr1.x -text
 culfw/Devices/COC/Bootloader/ldscripts_no_vector/avr2.x -text
