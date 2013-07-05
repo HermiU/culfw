@@ -14,6 +14,9 @@ culfw/CHANGED -text
 culfw/Devices/AirLinked/PWMBOX/board.h -text
 culfw/Devices/AirLinked/PWMBOX/main.c -text
 culfw/Devices/AirLinked/PWMBOX/makefile -text
+culfw/Devices/AirLinked/RGBBOX/board.h -text
+culfw/Devices/AirLinked/RGBBOX/main.c -text
+culfw/Devices/AirLinked/RGBBOX/makefile -text
 culfw/Devices/AirLinked/UVCBOX/main.c -text
 culfw/Devices/AirLinked/UVCBOX/main.c.big -text
 culfw/Devices/AirLinked/UVCBOX/main.h -text
