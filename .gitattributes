@@ -29,6 +29,7 @@ culfw/Devices/AirLinked/board.h.zCSM -text
 culfw/Devices/AirLinked/culfw.c -text
 culfw/Devices/AirLinked/culfw.h -text
 culfw/Devices/CCD/CCD.c -text
+culfw/Devices/CCD/CCD.hex -text
 culfw/Devices/CCD/README -text
 culfw/Devices/CCD/board.h -text
 culfw/Devices/CCD/makefile -text
