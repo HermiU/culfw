@@ -251,6 +251,9 @@ culfw/Devices/RFbee/Makefile -text
 culfw/Devices/RFbee/README -text
 culfw/Devices/RFbee/RFbee.c -text
 culfw/Devices/RFbee/board.h -text
+culfw/Devices/SCC/SCC.c -text
+culfw/Devices/SCC/board.h -text
+culfw/Devices/SCC/makefile -text
 culfw/Devices/TuxRadio/Bootloader/chipdef.h -text
 culfw/Devices/TuxRadio/Bootloader/main.c -text
 culfw/Devices/TuxRadio/Bootloader/main.hex -text
@@ -475,6 +478,8 @@ culfw/clib/serial.c -text
 culfw/clib/serial.h -text
 culfw/clib/spi.c -text
 culfw/clib/spi.h -text
+culfw/clib/stacking.c -text
+culfw/clib/stacking.h -text
 culfw/clib/stringfunc.c -text
 culfw/clib/stringfunc.h -text
 culfw/clib/tcplink.c -text
