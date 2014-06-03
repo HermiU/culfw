@@ -348,9 +348,6 @@ culfw/Devices/rpiaddon/DEBIAN/prerm -text
 culfw/Devices/rpiaddon/README -text
 culfw/Devices/rpiaddon/board.h -text
 culfw/Devices/rpiaddon/flash.sh -text
-culfw/Devices/rpiaddon/irmp_old/board.h -text
-culfw/Devices/rpiaddon/irmp_old/irmpconfig.h -text
-culfw/Devices/rpiaddon/irmp_old/irsndconfig.h -text
 culfw/Devices/rpiaddon/irmpconfig.h -text
 culfw/Devices/rpiaddon/irsndconfig.h -text
 culfw/Devices/rpiaddon/makefile -text
