@@ -508,6 +508,8 @@ culfw/clib/ringbuffer.c -text
 culfw/clib/ringbuffer.h -text
 culfw/clib/serial.c -text
 culfw/clib/serial.h -text
+culfw/clib/somfy_rts.c -text
+culfw/clib/somfy_rts.h -text
 culfw/clib/spi.c -text
 culfw/clib/spi.h -text
 culfw/clib/stacking.c -text
