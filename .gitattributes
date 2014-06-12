@@ -473,6 +473,17 @@ culfw/clib/joy.h -text
 culfw/clib/led.h -text
 culfw/clib/log.c -text
 culfw/clib/log.h -text
+culfw/clib/mbus/3outof6.c -text
+culfw/clib/mbus/3outof6.h -text
+culfw/clib/mbus/crc.c -text
+culfw/clib/mbus/crc.h -text
+culfw/clib/mbus/manchester.c -text
+culfw/clib/mbus/manchester.h -text
+culfw/clib/mbus/mbus_defs.h -text
+culfw/clib/mbus/mbus_packet.c -text
+culfw/clib/mbus/mbus_packet.h -text
+culfw/clib/mbus/smode_rf_settings.h -text
+culfw/clib/mbus/tmode_rf_settings.h -text
 culfw/clib/mdns_sd.c -text
 culfw/clib/mdns_sd.h -text
 culfw/clib/memory.c -text
@@ -494,6 +505,8 @@ culfw/clib/qfs.c -text
 culfw/clib/qfs.h -text
 culfw/clib/rf_asksin.c -text
 culfw/clib/rf_asksin.h -text
+culfw/clib/rf_mbus.c -text
+culfw/clib/rf_mbus.h -text
 culfw/clib/rf_moritz.c -text
 culfw/clib/rf_moritz.h -text
 culfw/clib/rf_receive.c -text
