@@ -426,6 +426,8 @@ culfw/clib/battery.c -text
 culfw/clib/battery.h -text
 culfw/clib/cc1100.c -text
 culfw/clib/cc1100.h -text
+culfw/clib/cc1101_pllcheck.c -text
+culfw/clib/cc1101_pllcheck.h -text
 culfw/clib/cctemp.c -text
 culfw/clib/cctemp.h -text
 culfw/clib/cdc.c -text
