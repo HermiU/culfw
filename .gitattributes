@@ -252,6 +252,7 @@ culfw/Devices/RFbee/README -text
 culfw/Devices/RFbee/RFbee.c -text
 culfw/Devices/RFbee/board.h -text
 culfw/Devices/SCC/SCC.c -text
+culfw/Devices/SCC/SCC.hex -text
 culfw/Devices/SCC/board.h -text
 culfw/Devices/SCC/makefile -text
 culfw/Devices/TuxRadio/Bootloader/chipdef.h -text
