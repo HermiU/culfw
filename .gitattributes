@@ -325,6 +325,7 @@ culfw/Devices/nanoCUL/README -text
 culfw/Devices/nanoCUL/board.h -text
 culfw/Devices/nanoCUL/makefile -text
 culfw/Devices/nanoCUL/nanoCUL.c -text
+culfw/Devices/nanoCUL/nanoCUL.hex -text
 culfw/Devices/rpiaddon/Bootloader/chipdef.h -text
 culfw/Devices/rpiaddon/Bootloader/ldscripts_no_vector/avr1.x -text
 culfw/Devices/rpiaddon/Bootloader/ldscripts_no_vector/avr2.x -text
