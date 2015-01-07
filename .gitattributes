@@ -247,6 +247,8 @@ culfw/Devices/CUR/board_v3.h -text
 culfw/Devices/CUR/makefile -text
 culfw/Devices/CUR/makefile.myusb -text
 culfw/Devices/Makefile -text
+culfw/Devices/PIGATOR/board.h -text
+culfw/Devices/PIGATOR/makefile -text
 culfw/Devices/RFbee/Makefile -text
 culfw/Devices/RFbee/README -text
 culfw/Devices/RFbee/RFbee.c -text
