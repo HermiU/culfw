@@ -156,6 +156,9 @@ culfw/Devices/CSM/CSM.hex -text
 culfw/Devices/CSM/board.h -text
 culfw/Devices/CSM/irmpconfig.h -text
 culfw/Devices/CSM/makefile -text
+culfw/Devices/CSM_RADINO/RADINO.c -text
+culfw/Devices/CSM_RADINO/board.h -text
+culfw/Devices/CSM_RADINO/makefile -text
 culfw/Devices/CUL/CUL.c -text
 culfw/Devices/CUL/CUL_V2.hex -text
 culfw/Devices/CUL/CUL_V2_HM.hex -text
