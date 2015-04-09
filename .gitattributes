@@ -553,12 +553,12 @@ culfw/clib/vz.c -text
 culfw/clib/vz.h -text
 culfw/clib/xled.h -text
 culfw/docs/CUNO.jpg -text
+culfw/docs/CUR_battery.png -text
 culfw/docs/FREQTEST -text
 culfw/docs/FREQTEST2 -text
 culfw/docs/FREQTEST3 -text
 culfw/docs/MCP2200.inf -text
 culfw/docs/MyUSB_USBtoSerial.inf -text
-culfw/docs/battery.png -text
 culfw/docs/ccc.jpg -text svneol=unset#unset
 culfw/docs/commandref.html -text
 culfw/docs/cul_rfr.jpg -text
