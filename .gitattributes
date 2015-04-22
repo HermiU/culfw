@@ -520,6 +520,8 @@ culfw/clib/qfs.c -text
 culfw/clib/qfs.h -text
 culfw/clib/rf_asksin.c -text
 culfw/clib/rf_asksin.h -text
+culfw/clib/rf_itplus.c -text
+culfw/clib/rf_itplus.h -text
 culfw/clib/rf_mbus.c -text
 culfw/clib/rf_mbus.h -text
 culfw/clib/rf_moritz.c -text
