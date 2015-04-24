@@ -526,6 +526,8 @@ culfw/clib/rf_mbus.c -text
 culfw/clib/rf_mbus.h -text
 culfw/clib/rf_moritz.c -text
 culfw/clib/rf_moritz.h -text
+culfw/clib/rf_native.c -text
+culfw/clib/rf_native.h -text
 culfw/clib/rf_receive.c -text
 culfw/clib/rf_receive.h -text
 culfw/clib/rf_router.c -text
