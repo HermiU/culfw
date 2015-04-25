@@ -485,6 +485,8 @@ culfw/clib/joy.c -text
 culfw/clib/joy.h -text
 culfw/clib/kopp-fc.c -text svn_needs-lock=*
 culfw/clib/kopp-fc.h -text
+culfw/clib/lacrosse.c -text
+culfw/clib/lacrosse.h -text
 culfw/clib/led.h -text
 culfw/clib/log.c -text
 culfw/clib/log.h -text
