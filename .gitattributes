@@ -435,6 +435,8 @@ culfw/clib/adcw.c -text
 culfw/clib/adcw.h -text
 culfw/clib/battery.c -text
 culfw/clib/battery.h -text
+culfw/clib/belfox.c -text
+culfw/clib/belfox.h -text
 culfw/clib/cc1100.c -text
 culfw/clib/cc1100.h -text
 culfw/clib/cc1101_pllcheck.c -text
