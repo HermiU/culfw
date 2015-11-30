@@ -164,6 +164,7 @@ culfw/Devices/CUL/CUL_V2.hex -text
 culfw/Devices/CUL/CUL_V2_HM.hex -text
 culfw/Devices/CUL/CUL_V2_MAX.hex -text
 culfw/Devices/CUL/CUL_V3.hex -text
+culfw/Devices/CUL/CUL_V3_ZWAVE.hex -text
 culfw/Devices/CUL/CUL_V4.hex -text
 culfw/Devices/CUL/board.h -text
 culfw/Devices/CUL/makefile -text
