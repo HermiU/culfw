@@ -635,4 +635,5 @@ culfw/tools/t2t.pl -text
 culfw/tools/timer.c -text
 culfw/tools/timer.gnuplot -text
 culfw/tools/xmllist2curmenu.pl -text
+culfw/tools/zwave_cs.pl -text
 culfw/version.h -text
