@@ -364,6 +364,7 @@ culfw/Devices/rpiaddon/irmpconfig.h -text
 culfw/Devices/rpiaddon/irsndconfig.h -text
 culfw/Devices/rpiaddon/makefile -text
 culfw/Devices/rpiaddon/rpiaddon.c -text
+culfw/Devices/rpiaddon/rpiaddon.hex -text
 culfw/Devices/zCSM/Bootloader/chipdef.h -text
 culfw/Devices/zCSM/Bootloader/ldscripts_no_vector/avr1.x -text
 culfw/Devices/zCSM/Bootloader/ldscripts_no_vector/avr2.x -text
