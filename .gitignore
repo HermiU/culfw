@@ -46,3 +46,15 @@ culfw/avr-uip/uip/*.lst
 culfw/clib/*.lst
 culfw/lufa/Drivers/USB/HighLevel/*.lst
 culfw/lufa/Drivers/USB/LowLevel/*.lst
+
+culfw/clib/mbus/*.lst
+*.o
+culfw/Devices/SCC/*.eep
+culfw/Devices/SCC/*.elf
+culfw/Devices/SCC/*.lss
+culfw/Devices/SCC/*.lst
+culfw/Devices/SCC/*.map
+culfw/Devices/SCC/*.sym
+culfw/Devices/SCC/*.hex
+culfw/Devices/SCC/.dep
+*.geany
