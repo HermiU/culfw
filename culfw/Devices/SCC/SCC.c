@@ -100,7 +100,7 @@ const PROGMEM t_fntab fntab[] = {
 #ifdef HAS_STACKING
   { '*', stacking_func },
 #ifdef HAS_STACK_ENOCEAN  
-  { 'y', stacking_func_eno },
+  { '%', stacking_func_eno },
 #endif
 #endif
   { 'l', ledfunc },
